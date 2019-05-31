@@ -9,7 +9,7 @@ Kaggle是由联合创始人、首席执行官安东尼·高德布卢姆（Anthon
 学校教授机器学习的老师留作业的地方，这里的竞赛有些会向public开放参赛，也有些仅仅是学校内部教学使用。
 
 #### Getting Started 
-给新手练手的题，没有奖金，但有很多的经验可供学习。里面保留了几个经典的入门竞赛：手写数字识别、<a href='/kaggle_getting_start/Titanic'>泰坦尼克号</a>、<a href='/kaggle_getting_start/House-Prices'>房价预测</a>等。
+给新手练手的题，没有奖金，但有很多的经验可供学习。里面保留了几个经典的入门竞赛：手写数字识别、<a href='/kaggle_getting_started/Titanic'>泰坦尼克号</a>、<a href='/kaggle_getting_started/House-Prices'>房价预测</a>等。
 
 #### Playground
 以有趣为主，比如猫狗照片分类的问题。现在这个分类下的题目不算多，但是热度很高。
